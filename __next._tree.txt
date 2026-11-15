@@ -1,8 +1,9 @@
-:HL["/_next/static/css/0fd67935bd6e2f0f.css","style"]
+:HL["/_next/static/css/cb6c09eb460b7968.css","style"]
 :HL["/npc-mark.png","image"]
 :HL["/art/steam-logo.svg","image"]
 :HL["/screens/scene-9.webp","image"]
 :HL["/screens/scene-1.webp","image"]
 :HL["/screens/scene-3.webp","image"]
+:HL["/screens/scene-4.webp","image"]
 1:[["children",{"s":"__PAGE__","h":160}]]
-0:{"b":"3JiqN6h5tnLVvbRxfqqUG","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"rkZVU1C9ESTVSFabyLMEg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}

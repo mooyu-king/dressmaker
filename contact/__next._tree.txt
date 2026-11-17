@@ -2,4 +2,4 @@
 :HL["/npc-mark.png","image"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":{"n":"info","t":"d","k":"contact","s":["_not-found","_global-error","guides","play","sitemap.xml"]},"h":65632,"c":"$Q2"}]]
-0:{"b":"rkZVU1C9ESTVSFabyLMEg","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
+0:{"b":"0x9PZblMC-b805XaIEssD","t":{"t":{"s":"","h":131152,"c":"$Q1"}}}
